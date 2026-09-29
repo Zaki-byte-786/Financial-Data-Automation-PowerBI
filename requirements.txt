@@ -1,0 +1,14 @@
+# Core data processing
+pandas
+
+# HTTP requests
+requests
+
+# Google Drive / Google Cloud authentication
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+
+# Excel file support
+openpyxl
